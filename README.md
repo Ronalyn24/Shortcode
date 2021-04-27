@@ -1,2 +1,2 @@
 # Shortcode
-WordPress Custom Short code
+WordPress Custom Short code - Display post item trought target the specific category
