@@ -1,2 +1,3 @@
-# Shortcode
-WordPress Custom Short code - Display post item trought target the specific category
+# WordPress Shortcode
+# functions.php
+Custom Short code - How to Display post item trought target the specific category
